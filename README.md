@@ -2,8 +2,8 @@
 
 #### GitHub Stats
 <p align="left" >
-  <img alt="lang" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takumi-pro&layout=compact&show_icons=true&theme=tokyonight" />
-  <img alt="stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=takumi-pro&show_icons=true&theme=tokyonight" />
+  <img alt="lang" height="150px" src="https://github-readme-stats-phi-pearl-91.vercel.app/api/top-langs/?username=takumi-pro&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="stats" height="150px" src="https://github-readme-stats-phi-pearl-91.vercel.app/api?username=takumi-pro&show_icons=true&theme=tokyonight" />
 </p>
 
 #### LAPRAS SCORE
