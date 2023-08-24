@@ -1,4 +1,4 @@
-### takumiのプロフィール 🐶
+### takumi's profile 🐶
 
 #### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumi-pro&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
