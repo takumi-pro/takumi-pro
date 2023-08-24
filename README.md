@@ -1,7 +1,10 @@
 ### takumi's profile 🐶
 
 #### GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumi-pro&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left" >
+  <img alt="lang" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takumi-pro&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=takumi-pro&show_icons=true&theme=tokyonight" />
+</p>
 
 #### LAPRAS SCORE
 <!--START_SECTION:lapras-card-->
