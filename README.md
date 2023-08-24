@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 <!--
 **takumi-pro/takumi-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
