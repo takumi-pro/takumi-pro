@@ -1,5 +1,9 @@
-### Hi there 👋
+### takumiのプロフィール 🐶
 
+#### GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumi-pro&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+#### LAPRAS SCORE
 <!--START_SECTION:lapras-card-->
 <!--END_SECTION:lapras-card-->
 
